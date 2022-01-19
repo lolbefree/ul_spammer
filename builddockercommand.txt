@@ -1,0 +1,2 @@
+docker image build --rm=false --no-cache -t image_name .
+docker save --output "c:\img\ul_spammer" ul_spammer
